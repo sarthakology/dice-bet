@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dice-bet/static/css/main.d1dfbcab.css",
+    "main.js": "/dice-bet/static/js/main.c5d0635f.js",
+    "index.html": "/dice-bet/index.html",
+    "main.d1dfbcab.css.map": "/dice-bet/static/css/main.d1dfbcab.css.map",
+    "main.c5d0635f.js.map": "/dice-bet/static/js/main.c5d0635f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1dfbcab.css",
+    "static/js/main.c5d0635f.js"
+  ]
+}
