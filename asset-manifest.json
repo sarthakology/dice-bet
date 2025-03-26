@@ -1,13 +1,20 @@
 {
   "files": {
     "main.css": "/dice-bet/static/css/main.d1dfbcab.css",
-    "main.js": "/dice-bet/static/js/main.c5d0635f.js",
+    "main.js": "/dice-bet/static/js/main.88b2b599.js",
+    "static/media/dices.png": "/dice-bet/static/media/dices.dd209eaf1218f8d4fda3.png",
+    "static/media/dice_6.png": "/dice-bet/static/media/dice_6.6104664d856f0f10cfbc.png",
+    "static/media/dice_5.png": "/dice-bet/static/media/dice_5.10a549d914f4c6e380cd.png",
+    "static/media/dice_4.png": "/dice-bet/static/media/dice_4.4c33db1f66841ccc2aad.png",
+    "static/media/dice_3.png": "/dice-bet/static/media/dice_3.e0b0f657546d70aa4a25.png",
+    "static/media/dice_2.png": "/dice-bet/static/media/dice_2.078a8c75a55e5be352bc.png",
+    "static/media/dice_1.png": "/dice-bet/static/media/dice_1.988b89e3409995d4536b.png",
     "index.html": "/dice-bet/index.html",
     "main.d1dfbcab.css.map": "/dice-bet/static/css/main.d1dfbcab.css.map",
-    "main.c5d0635f.js.map": "/dice-bet/static/js/main.c5d0635f.js.map"
+    "main.88b2b599.js.map": "/dice-bet/static/js/main.88b2b599.js.map"
   },
   "entrypoints": [
     "static/css/main.d1dfbcab.css",
-    "static/js/main.c5d0635f.js"
+    "static/js/main.88b2b599.js"
   ]
 }
